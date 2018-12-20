@@ -1,0 +1,50 @@
+movie-this: 
+
+Title: "Tale of Tales"
+
+Year released: "22 Apr 2016"
+
+Plot: "From the bitter quest of the Queen of Longtrellis, to two mysterious sisters who provoke the passion of a king, to the King of Highhills obsessed with a giant Flea, these tales are inspired by the fairytales by Giambattista Basile."
+
+Actors: "Salma Hayek, Vincent Cassel, Toby Jones, John C. Reilly"
+
+Language: "English, Russian"
+
+Country: "Italy, France, UK"
+
+IMDB rating: "6.4"
+
+Rotten Tomatoes rating: "82%"
+
+=========================
+
+spotify-this-song: 
+
+Artist: "Ace of Base"
+
+Track: "The Sign"
+
+Album: "The Sign (US Album) [Remastered]"
+
+=========================
+
+movie-this: 
+
+Title: "Mr. Nobody"
+
+Year released: "26 Sep 2013"
+
+Plot: "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible."
+
+Actors: "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+
+Language: "English, Mohawk"
+
+Country: "Belgium, Germany, Canada, France, USA, UK"
+
+IMDB rating: "7.9"
+
+Rotten Tomatoes rating: "67%"
+
+=========================
+
