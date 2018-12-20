@@ -1,50 +1,80 @@
+concert-this: 
+
+Datetime: 12/28/2018
+
+Venue: Boulder Theater
+
+City: Boulder
+
+=========================
+
+concert-this: 
+
+Datetime: 12/29/2018
+
+Venue: Boulder Theater
+
+City: Boulder
+
+=========================
+
+concert-this: 
+
+Datetime: 02/22/2019
+
+Venue: WinterWonderGrass - Steamboat
+
+City: Steamboat Springs
+
+=========================
+
 movie-this: 
 
-Title: "Tale of Tales"
+Title: "Aliens"
 
-Year released: "22 Apr 2016"
+Year released: "18 Jul 1986"
 
-Plot: "From the bitter quest of the Queen of Longtrellis, to two mysterious sisters who provoke the passion of a king, to the King of Highhills obsessed with a giant Flea, these tales are inspired by the fairytales by Giambattista Basile."
+Plot: "Ellen Ripley is rescued by a deep salvage team after being in hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?"
 
-Actors: "Salma Hayek, Vincent Cassel, Toby Jones, John C. Reilly"
+Actors: "Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser"
 
-Language: "English, Russian"
+Language: "English"
 
-Country: "Italy, France, UK"
+Country: "USA"
 
-IMDB rating: "6.4"
+IMDB rating: "8.4"
 
-Rotten Tomatoes rating: "82%"
+Rotten Tomatoes rating: "99%"
 
 =========================
 
 spotify-this-song: 
 
-Artist: "Ace of Base"
+Artist: "Mariah Carey"
 
-Track: "The Sign"
+Track: "All I Want for Christmas Is You"
 
-Album: "The Sign (US Album) [Remastered]"
+Album: "Merry Christmas"
 
 =========================
 
 movie-this: 
 
-Title: "Mr. Nobody"
+Title: "Immortal Beloved"
 
-Year released: "26 Sep 2013"
+Year released: "27 Jan 1995"
 
-Plot: "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible."
+Plot: "The life and death of the legendary Ludwig van Beethoven. Besides all the work he is known for, the composer once wrote a famous love letter to a nameless beloved, and the movie tries to ..."
 
-Actors: "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+Actors: "Gary Oldman, Jeroen Krabbé, Isabella Rossellini, Johanna ter Steege"
 
-Language: "English, Mohawk"
+Language: "English"
 
-Country: "Belgium, Germany, Canada, France, USA, UK"
+Country: "UK, USA"
 
-IMDB rating: "7.9"
+IMDB rating: "7.5"
 
-Rotten Tomatoes rating: "67%"
+Rotten Tomatoes rating: "56%"
 
 =========================
 

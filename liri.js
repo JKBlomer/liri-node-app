@@ -30,7 +30,7 @@ function liriThis(term1, term2) {
                 type: "track",
                 query: term2
             }, function (err, data) {
-                console.log(JSON.stringify(data));
+               
                 if (err) {
                     console.log(err);
 
@@ -88,7 +88,7 @@ function liriThis(term1, term2) {
         }
     }
 
-    if (term1 === "movie-this") {
+    else if (term1 === "movie-this") {
 
         if (term2 === "") {
             console.log("Please add a movie to the 'movie-this' node command.  Without it, 'Mr.Nobody' is the default movie");
@@ -128,7 +128,7 @@ function liriThis(term1, term2) {
 
     }
  
-    if (term1 === "concert-this") {
+    else if (term1 === "concert-this") {
         
 
         if (queryString1 === "") {
@@ -172,22 +172,19 @@ function liriThis(term1, term2) {
                                 }
                             })
                         }
-
                     }
                     if (respArr.length === 0) {
                         console.log("no Colorado shows for " + queryString);
                     } else {
                         console.log("======================");
-                        
                     }
-
                 }
             })
         }
 
     }
 
-    if (term1 === "do-what-it-says") {
+    else if (term1 === "do-what-it-says") {
         fs.readFile("random.txt", "utf8", function (err, data) {
             if (err) {
                 console.log(err);
@@ -202,7 +199,7 @@ function liriThis(term1, term2) {
         })
     }
     else{
-        console.log("\nYou must use one of the following commands to run this program: \n\nspotify-this-song \nconcert-this \nmovie-this \ndo-what-it-says"); 
+        console.log("\nYou must use one of the following commands to run this program: \n\nnode liri spotify-this-song \nnode liri concert-this \nnode liri movie-this \nnode liri do-what-it-says"); 
        
     }
 }
