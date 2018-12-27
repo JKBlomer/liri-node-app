@@ -17,7 +17,6 @@ for (var i = 3; i < userInput.length; i++) {
     queryString1 += userInput[i];
 }
 
-
 function liriThis(term1, term2) {
     if (term1 === "spotify-this-song") {
 
@@ -204,10 +203,9 @@ function liriThis(term1, term2) {
     }
 }
 
-
-
 if (userInput.length < 3) {
-    console.log("You must enter in a liri command to run this node application.");
+    console.log("\nYou must enter in a command to run this node application:\n\n'spotify-this-song'\n'movie-this'\n'concert-this'\n'do-what-it-says'");
 } else {
+
     liriThis(appSearch, queryString);
 }
