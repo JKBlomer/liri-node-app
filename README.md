@@ -6,9 +6,7 @@
 
 
 Please watch the video here:
-
-
-<a href="https://youtu.be/26Vyvv7dRSM" target="_blank"></a>
+https://youtu.be/26Vyvv7dRSM
 <br/>
 
 <strong>Project Logic:</strong> <br/> I wrote one function called liriThis() to take care of all 4 LIRI node commands.  The function liriThis() takes in two strings as arguments.  The first argument is one of 4 LIRI node commands, listed below:</br>
