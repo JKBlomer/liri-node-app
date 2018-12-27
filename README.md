@@ -19,4 +19,15 @@ https://youtu.be/26Vyvv7dRSM
 
 * `do-what-it-says`</br>
 
-If no second argument is provided for 'spotify-this-song' then "The Sign" from Ace of Base is returned. </br> If no second argument is provided for 'movie-this' then "Mr. Nobody" is returned.  </br> If no second argument is provided for 'concert-this', the command line will prompt you to provide one. </br>Lastly, 'do-what-it-says' does not take in a second argument.  This last command, 'do-what-it-says', reads from a random.txt file, grabs the text, and re-calls liriThis() with the text commands provided for in the file.
+If no second argument is provided for 'spotify-this-song' then "The Sign" from Ace of Base is returned. </br> If no second argument is provided for 'movie-this' then "Mr. Nobody" is returned.  </br> If no second argument is provided for 'concert-this', the command line will prompt you to provide one. </br>Lastly, 'do-what-it-says' does not take in a second argument.  This last command, 'do-what-it-says', reads from a random.txt file, grabs the text, and re-calls liriThis() with the text commands provided for in the file.</br>
+The video runs through the following command line arguments, writing results to a log.txt file:
+* node liri
+* node liri spotify-this-song
+* node liri spotify-this-song shadowboxer
+* node liri movie-this
+* node liri movie-this aliens
+* node liri concert-this
+* node liri concert-this the rolling stones
+* node liri do-what-it-says </br>
+
+
