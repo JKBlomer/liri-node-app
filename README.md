@@ -30,5 +30,9 @@ The video runs through the following command line arguments, in this order:
 * node liri concert-this
 * node liri concert-this the rolling stones
 * node liri do-what-it-says </br>
-
+</br>
+In order to clone this project, you must supply a .env file to the .gitignore folder with your spotify ID and Secret included in the following format: </br>
+SPOTIFY_ID=your-spotify-id
+SPOTIFY_SECRET=your-spotify-secret
+</br>
 
