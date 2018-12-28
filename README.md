@@ -19,7 +19,7 @@ https://youtu.be/26Vyvv7dRSM
 
 * `do-what-it-says`</br></br>
 The node command "spotify-this-song" utilizes the node Spotify API package in order to retrieve song information from the Spotify API
-</br>.  The node command "movie-this" uses the node axios package to retrieve data from the OMDB API. </br>The command "concert-this" searches the Bands in Town Artist Events API for upcoming concerts in Colorado. </br> The last command, "do-what-it-says", reads from a random.txt file, grabs the text, and re-calls liriThis() using the text commands provided for in the file. </br>All four commands log their results to the node console as well as to a log.txt file.</br>
+</br>The node command "movie-this" uses the node axios package to retrieve data from the OMDB API. </br>The command "concert-this" searches the Bands in Town Artist Events API for upcoming concerts in Colorado. </br> The last command, "do-what-it-says", reads from a random.txt file, grabs the text, and re-calls liriThis() using the text commands provided for in the file. </br>All four commands log their results to the node console as well as to a log.txt file.</br>
 If no second argument is provided for 'spotify-this-song' then "The Sign" from Ace of Base is returned. </br> If no second argument is provided for 'movie-this' then "Mr. Nobody" is returned.  </br> If no second argument is provided for 'concert-this', the command line will prompt you to provide one. </br>Lastly, 'do-what-it-says' does not take in a second argument.  </br>
 The video runs through the following command line arguments, in this order:
 * node liri
