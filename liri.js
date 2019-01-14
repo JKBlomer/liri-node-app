@@ -16,8 +16,11 @@ for (var i = 3; i < userInput.length; i++) {
     queryString += userInput[i] + " ";
     queryString1 += userInput[i];
 }
-
+    console.log("qs: " + queryString);
+    console.log("qs1: " + queryString1);
+    
 function liriThis(term1, term2) {
+    
     if (term1 === "spotify-this-song") {
 
         if (term2 === "") {

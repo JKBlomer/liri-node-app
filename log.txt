@@ -88,3 +88,73 @@ Rotten Tomatoes rating: "56%"
 
 =========================
 
+spotify-this-song: 
+
+Artist: "Fiona Apple"
+
+Track: "Sullen Girl"
+
+Album: "Tidal"
+
+=========================
+
+movie-this: 
+
+Title: "Immortal Beloved"
+
+Year released: "27 Jan 1995"
+
+Plot: "The life and death of the legendary Ludwig van Beethoven. Besides all the work he is known for, the composer once wrote a famous love letter to a nameless beloved, and the movie tries to ..."
+
+Actors: "Gary Oldman, Jeroen Krabbé, Isabella Rossellini, Johanna ter Steege"
+
+Language: "English"
+
+Country: "UK, USA"
+
+IMDB rating: "7.5"
+
+Rotten Tomatoes rating: "56%"
+
+=========================
+
+movie-this: 
+
+Title: "Immortal Beloved"
+
+Year released: "27 Jan 1995"
+
+Plot: "The life and death of the legendary Ludwig van Beethoven. Besides all the work he is known for, the composer once wrote a famous love letter to a nameless beloved, and the movie tries to ..."
+
+Actors: "Gary Oldman, Jeroen Krabbé, Isabella Rossellini, Johanna ter Steege"
+
+Language: "English"
+
+Country: "UK, USA"
+
+IMDB rating: "7.5"
+
+Rotten Tomatoes rating: "56%"
+
+=========================
+
+movie-this: 
+
+Title: "Immortal Beloved"
+
+Year released: "27 Jan 1995"
+
+Plot: "The life and death of the legendary Ludwig van Beethoven. Besides all the work he is known for, the composer once wrote a famous love letter to a nameless beloved, and the movie tries to ..."
+
+Actors: "Gary Oldman, Jeroen Krabbé, Isabella Rossellini, Johanna ter Steege"
+
+Language: "English"
+
+Country: "UK, USA"
+
+IMDB rating: "7.5"
+
+Rotten Tomatoes rating: "56%"
+
+=========================
+
